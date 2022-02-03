@@ -12,7 +12,7 @@ jobs:
     
     
     env:
-      NEXT_PUBLIC_BASE_PATH: /skrispyb
+      NEXT_PUBLIC_BASE_PATH: /jumpx_template
 
 
     strategy:
